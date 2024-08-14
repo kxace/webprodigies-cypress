@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1723608496678,
+      "tag": "0000_overconfident_hellion",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1723609075730,
+      "tag": "0001_vengeful_synch",
+      "breakpoints": true
+    }
+  ]
+}
